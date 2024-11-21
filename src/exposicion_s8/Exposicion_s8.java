@@ -7,6 +7,7 @@ package exposicion_s8;
 /**
  *
  * @author alexanderordonez
+ * @author Leonardo
  */
 public class Exposicion_s8 {
 
